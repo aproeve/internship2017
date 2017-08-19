@@ -10,6 +10,8 @@
 .hover-underline-menu .menu a {
   color: #fefefe;
   padding: 1.2rem 1.5rem;
+  font-family: 'Poiret One', cursive;
+
 }
 
 .hover-underline-menu .menu .underline-from-center {
@@ -34,9 +36,9 @@
 
 
 .hero-section {
-  background: url("http://automatastudios.com/images/ibm-watson-1.png") 50% no-repeat;
+  background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/geometric-tunnel_wjd0nkzzh__F0000.png") 50% no-repeat;
   background-size: cover;
-  height: 60vh;
+  height: 100vh;
   text-align: center;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -50,13 +52,47 @@
 }
 
 .hero-section .hero-section-text {
-  color: #fefefe;
+  color:black;
 }
 
 .hero-section-text h1 {
-
+  font-family: 'Poiret One', cursive;
 }
 
 .hero-section-text h5 {
+  font-family: 'Poiret One', cursive;
+}
 
+.portfolio-resume-spacing {
+  margin-bottom: 2rem;
+}
+
+.portfolio-resume-wrapper {
+  padding: 2rem 4rem;
+}
+
+.portfolio-resume-headshot {
+  margin-bottom: 2rem;
+  border-radius: 50%;
+  float:right;
+}
+
+.portfolio-resume-header {
+  font-family: 'Poiret One', cursive;
+  text-transform: uppercase;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #e6e6e6;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.portfolio-twitter a {
+  font-family: 'Poiret One', cursive;
+  color:black;
+  text-decoration: none;
+  padding-left:4rem;
+  padding-bottom:4rem;
+}
+.footertext {
+    font-family: 'Poiret One', cursive;
 }
